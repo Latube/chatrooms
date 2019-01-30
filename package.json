@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Minimalist multiroom chat server",
   "scripts": {
-    "server":"nodemon ./server.js localhost 8080"
+    "server": "nodemon ./server.js localhost 8080"
   },
   "dependencies": {
     "mime": "~1.2.7",
